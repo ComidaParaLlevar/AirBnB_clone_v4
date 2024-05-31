@@ -1,3 +1,4 @@
+#!/usr/bin/node
 $(document).ready(function () {
     const nameAmenity = [];
     $('input:checkbox').click(function () {
